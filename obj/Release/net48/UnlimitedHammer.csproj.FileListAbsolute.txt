@@ -1,9 +1,0 @@
-C:\Users\Pete\Desktop\sailwindmod\UnlimitedHammer\obj\Release\net48\UnlimitedHammer.csproj.AssemblyReference.cache
-C:\Users\Pete\Desktop\sailwindmod\UnlimitedHammer\obj\Release\net48\UnlimitedHammer.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Pete\Desktop\sailwindmod\UnlimitedHammer\obj\Release\net48\UnlimitedHammer.AssemblyInfoInputs.cache
-C:\Users\Pete\Desktop\sailwindmod\UnlimitedHammer\obj\Release\net48\UnlimitedHammer.AssemblyInfo.cs
-C:\Users\Pete\Desktop\sailwindmod\UnlimitedHammer\obj\Release\net48\UnlimitedHammer.csproj.CoreCompileInputs.cache
-C:\Users\Pete\Desktop\sailwindmod\UnlimitedHammer\bin\Release\net48\UnlimitedHammer.dll
-C:\Users\Pete\Desktop\sailwindmod\UnlimitedHammer\bin\Release\net48\UnlimitedHammer.pdb
-C:\Users\Pete\Desktop\sailwindmod\UnlimitedHammer\obj\Release\net48\UnlimitedHammer.dll
-C:\Users\Pete\Desktop\sailwindmod\UnlimitedHammer\obj\Release\net48\UnlimitedHammer.pdb
