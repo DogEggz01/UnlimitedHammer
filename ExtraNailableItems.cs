@@ -10,6 +10,13 @@ internal static class ExtraNailableItems
         {
             "137 model ship junk (big)",
             "138 model ship junk (small)",
+            "110 lantern A",
+            "111 lantern E yellow",
+            "112 lantern E red",
+            "113 lantern E green",
+            "114 lantern M",
+            "133 lantern M big",
+            "134 lantern E blu",
             "190 flower pot",
             "191 flower pot 1",
             "192 flower pot 2",
