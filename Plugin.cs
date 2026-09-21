@@ -6,7 +6,7 @@ using UnityEngine;
 
 namespace UnlimitedHammer;
 
-[BepInPlugin("DogEggz.unlimitedhammer", "Unlimited hammer", "1.0.1")]
+[BepInPlugin("DogEggz.unlimitedhammer", "Unlimited hammer", "1.0.2")]
 public class Plugin : BaseUnityPlugin
 {
     private Harmony harmony;
