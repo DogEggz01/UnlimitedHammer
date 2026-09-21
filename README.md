@@ -4,7 +4,7 @@
   - Item nailed in the air will follow ship and still have weight
 - Show nail progress as percentage on item
   - Hammer timer actually follow the hammer itself, so you can progress on other item first and insta nail the item you want.
-- Make model ship and flower pots nailable
+- Make model ship, flower pots and all lantern nailable
 - Can toggle the mod off in Configurator
 
 This mod made you nail the things at whatever position you want.
