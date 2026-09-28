@@ -247,7 +247,7 @@ namespace UnlimitedHammer
             Renderer ___mouseLIcon,
             TextMesh ___textLicon)
         {
-            if (!Plugin.IsModEnabled || button == null || ___pointer == null || ___pointer.GetHeldItem() != null)
+            if (!Plugin.IsModEnabled || !Settings.controlsTextEnabled || button == null || ___pointer == null || ___pointer.GetHeldItem() != null)
             {
                 return;
             }
